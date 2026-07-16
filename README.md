@@ -26,6 +26,9 @@ Remote Controller for my [Drone](https://github.com/zzertexx/drone) with FPV vie
 | AMS1117 3.3V converter | 1 pc |
 | WS2812 | 2 pcs |
 | Tactile Button | 2 pcs |
+| Resistors | 1K x3, 1.2K, 100, 4.7K x2, 0, 110K, 15K, 5.1K |
+| Inductor 4.7uH | 1 pc |
+| Capacitors | 0.1uF x2, 22uF x3, 47uF |
 
 # Photos
 

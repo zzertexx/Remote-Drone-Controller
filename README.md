@@ -37,6 +37,9 @@ I designed drone recently, but I don't have controller for it, so I built one
 | 2400mAh Battery 18650 | 1 pc |
 | Battery Holder | 1 pc |
 
+# Next feautures
+3D Enclosure
+VTX Video Receiver for Phone
 
 # Photos
 <img width="1472" height="635" alt="image" src="https://github.com/user-attachments/assets/9c5682e8-398e-4df3-8acb-70189224a620" />

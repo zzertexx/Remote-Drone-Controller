@@ -47,7 +47,7 @@ VTX Video Receiver for Phone
 <img width="721" height="861" alt="image" src="https://github.com/user-attachments/assets/6682884c-286d-490c-b996-b06030a8383c" />
 <img width="1307" height="822" alt="image" src="https://github.com/user-attachments/assets/e88922bd-9cfc-49d3-b998-f9fb47e39c6d" />
 <img width="1477" height="574" alt="image" src="https://github.com/user-attachments/assets/794fa1bb-4329-434b-836f-6819488f60bb" />
-
+<img width="1110" height="739" alt="image" src="https://github.com/user-attachments/assets/b0726d85-a3a5-4e7e-87b3-292ef052395b" />
 
 # AI DISCLOSURE
 AI was used for researching various components, tradeofs and their compatibility

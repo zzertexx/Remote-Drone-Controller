@@ -34,6 +34,8 @@ I designed drone recently, but I don't have controller for it, so I built one
 | Inductor 4.7uH | 1 pc |
 | Capacitors | 0.1uF x2, 22uF x3, 47uF |
 | LED THT D3mm | 2 pcs |
+| 2400mAh Battery 18650 | 1 pc |
+| Battery Holder | 1 pc |
 
 
 # Photos
